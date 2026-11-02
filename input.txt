@@ -1,0 +1,1951 @@
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reliable UDP file transfer testing.
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789
+The quick brown fox jumps over the lazy dog.
+Reliable communication should preserve every byte of the original file.
+Packet loss should be handled using retransmission and acknowledgements.
+This is test data for KTP reli

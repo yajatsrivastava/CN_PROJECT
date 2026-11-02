@@ -30,7 +30,8 @@ $(USER2_BIN): user2.c $(LIB) ksocket.h
 
 clean:
 	rm -f *.o $(LIB) $(INIT_BIN) $(USER1_BIN) $(USER2_BIN)
-	rm -f test_output.txt test_input.txt ktp_submission.tar.gz
+	rm -f test_output.txt ktp_submission.tar.gz *.log
 
 tar: all
+	cp -f Makefile makefile 2>/dev/null || true
 	tar -czvf ktp_submission.tar.gz ksocket.h ksocket.c initksocket.c user1.c user2.c makefile documentation.txt

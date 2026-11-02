@@ -16,13 +16,16 @@
 #include <sys/ipc.h>
 #include <sys/shm.h>
 #include <signal.h>
+#include <sys/wait.h>
 
 /* Socket type for KTP */
 #define SOCK_KTP 505
 
 /* Protocol timing and error rate parameters */
 #define T 5               /* Retransmission timeout in seconds */
-#define P_DROP 0.05f      /* Default drop probability */
+#define p 0.05f           /* Unreliable channel drop probability parameter */
+#define P 0.05f           /* Uppercase alias for probability */
+#define P_DROP 0.05f      /* Descriptive drop probability alias */
 
 /* Buffer and window constraints specified in assignment */
 #define MSG_SIZE 512          /* Fixed payload size in bytes */
@@ -37,7 +40,7 @@
 #define SHM_KEY_ID 'K'
 #define DEFAULT_SHM_KEY 0x4B545031 /* Fallback key "KTP1" */
 
-/* Error codes */
+/* Error codes specified in assignment */
 #define ENOSPACE 1001
 #define ENOTBOUND 1002
 #define ENOMESSAGE 1003
@@ -55,7 +58,7 @@ typedef struct {
     uint8_t seq_num;           /* 8-bit sequence number (1..255) */
     uint8_t ack_num;           /* Last in-order sequence number acknowledged */
     uint8_t rwnd;              /* Advertised available receiver buffer space (0..10) */
-    uint16_t length;           /* Actual payload size in bytes (1..MSG_SIZE) */
+    uint16_t length;           /* Actual payload size in bytes (0..MSG_SIZE) */
     char payload[MSG_SIZE];    /* 512-byte payload chunk */
 } __attribute__((packed)) ktp_packet_t;
 
@@ -91,6 +94,7 @@ typedef struct {
     uint8_t window_size;       /* Current free space in receive buffer (0..10) */
     uint8_t expected_seq;      /* Next in-order sequence number expected */
     uint8_t last_in_order_seq; /* Last in-order sequence number acknowledged */
+    uint8_t app_read_seq;      /* Next in-order sequence number to be read by k_recvfrom */
     uint8_t out_of_order_seqs[RECV_BUFFER_SIZE]; /* Buffered out-of-order sequence numbers */
     int num_out_of_order;      /* Count of out-of-order packets buffered */
 } rwnd_t;
@@ -99,8 +103,10 @@ typedef struct {
 typedef struct {
     int is_allocated;          /* 1 if socket is in use, 0 if free */
     pid_t pid;                 /* Process ID of the process that created the socket */
-    int udp_sock;              /* Underlying UDP socket file descriptor */
+    int udp_sock;              /* Underlying UDP socket file descriptor (in initksocket) */
     int is_bound;              /* 1 if socket has been bound */
+    int bind_requested;        /* 1 if application requested k_bind */
+    int close_requested;       /* 1 if application requested k_close */
     struct sockaddr_in src_addr;  /* Bound source address and port */
     struct sockaddr_in dest_addr; /* Bound destination address and port */
 
@@ -148,8 +154,8 @@ static inline int ktp_seq_diff(uint8_t a, uint8_t b) {
 
 /* Library Function Declarations */
 int k_socket(int domain, int type, int protocol);
-int k_bind(int sockfd, const struct sockaddr *src_addr, socklen_t src_len,
-           const struct sockaddr *dest_addr, socklen_t dest_len);
+int k_bind(int sockfd, const void *src_arg, socklen_t src_param2,
+           const void *dest_arg, socklen_t dest_param4);
 int k_sendto(int sockfd, const void *buf, size_t len, int flags,
              const struct sockaddr *dest_addr, socklen_t addrlen);
 int k_recvfrom(int sockfd, void *buf, size_t len, int flags,
@@ -157,7 +163,7 @@ int k_recvfrom(int sockfd, void *buf, size_t len, int flags,
 int k_close(int sockfd);
 
 /* Unreliable channel simulation function */
-int dropMessage(float p);
+int dropMessage(float p_val);
 
 /* Helper convenience functions */
 int k_send(int sockfd, const void *buf, size_t len, int flags);
@@ -166,4 +172,3 @@ int k_bind_ip(int sockfd, const char *src_ip, int src_port,
               const char *dest_ip, int dest_port);
 
 #endif /* KSOCKET_H */
-

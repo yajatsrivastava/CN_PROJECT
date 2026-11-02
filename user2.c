@@ -73,7 +73,10 @@ int main(int argc, char *argv[]) {
 
         int bytes = k_recvfrom(sockfd, buffer, MSG_SIZE, 0,
                                (struct sockaddr *)&sender_addr, &sender_len);
-        if (bytes > 0) {
+        if (bytes == 0) {
+            printf("[User2] Received EOF marker. File transfer completed successfully!\n");
+            break;
+        } else if (bytes > 0) {
             fwrite(buffer, 1, bytes, fp);
             total_messages++;
             total_bytes_received += bytes;
@@ -93,9 +96,9 @@ int main(int argc, char *argv[]) {
             /* k_recvfrom returned -1 (k_error == ENOMESSAGE) */
             if (data_started) {
                 time_t now = time(NULL);
-                if (now - last_received_time >= 8) {
+                if (now - last_received_time >= 15) {
                     /* Inactivity timeout: transfer complete */
-                    printf("[User2] Transfer idle for 8 seconds. Assuming end of transfer.\n");
+                    printf("[User2] Transfer idle for 15 seconds. Assuming end of transfer.\n");
                     break;
                 }
             }

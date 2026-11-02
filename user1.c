@@ -47,8 +47,18 @@ int main(int argc, char *argv[]) {
     printf("        File to Send: %s                            \n", filename);
     printf("====================================================\n");
 
-    /* Ensure test file exists and is > 100KB (e.g. 128KB) */
-    ensure_test_file_exists(filename, 128 * 1024);
+    /* If user didn't specify a file, ensure default 128KB test file exists */
+    if (argc <= 1) {
+        ensure_test_file_exists(filename, 128 * 1024);
+    } else {
+        FILE *check_fp = fopen(filename, "rb");
+        if (!check_fp) {
+            fprintf(stderr, "[User1] Error: Input file '%s' not found!\n", filename);
+            fprintf(stderr, "Usage: %s <input_file> [local_port] [remote_port]\n", argv[0]);
+            exit(1);
+        }
+        fclose(check_fp);
+    }
 
     /* 1. Open KTP Socket */
     int sockfd = k_socket(AF_INET, SOCK_KTP, 0);
@@ -130,6 +140,13 @@ int main(int argc, char *argv[]) {
     fclose(fp);
     printf("[User1] File reading complete. Total unique messages queued: %d (%zu bytes).\n",
            total_messages, total_bytes_sent);
+
+    /* Send EOF marker (0-byte payload) so receiver terminates immediately without waiting */
+    int eof_sent = -1;
+    while (eof_sent < 0) {
+        eof_sent = k_sendto(sockfd, "", 0, 0, (struct sockaddr *)&dest_addr, sizeof(dest_addr));
+        if (eof_sent < 0) usleep(10000);
+    }
 
     /* 5. Wait for all messages in the send buffer to be acknowledged */
     printf("[User1] Waiting for all transmitted messages to be acknowledged...\n");
