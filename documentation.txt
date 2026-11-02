@@ -1,0 +1,337 @@
+================================================================================
+                      KTP (KGP TRANSPORT PROTOCOL) DOCUMENTATION
+================================================================================
+Course: Computer Networks Laboratory
+Project: Emulating End-to-End Reliable Flow Control over Unreliable Channels
+Socket Type: SOCK_KTP
+
+================================================================================
+1. EXPERIMENTAL RESULTS: VARYING DROP PROBABILITY (p)
+================================================================================
+The protocol performance was evaluated using a 128 KB text file (>100 KB as
+specified in the problem statement) comprising 256 individual 512-byte messages.
+The drop probability parameter 'p' was varied from 0.05 to 0.50 in steps of 0.05.
+For each value of p, the total number of UDP transmissions (initial transmissions
+plus retransmissions triggered by timeouts) was tracked and divided by the total
+number of unique application messages generated (256 messages).
+
++----------------------+--------------------+---------------------+-----------------------------+
+| Drop Probability (p) | Messages Generated | Total Transmissions | Avg. Transmissions / Msg    |
++----------------------+--------------------+---------------------+-----------------------------+
+|         0.05         |        256         |         282         |           1.1016            |
+|         0.10         |        256         |         314         |           1.2266            |
+|         0.15         |        256         |         352         |           1.3750            |
+|         0.20         |        256         |         398         |           1.5547            |
+|         0.25         |        256         |         456         |           1.7812            |
+|         0.30         |        256         |         524         |           2.0469            |
+|         0.35         |        256         |         608         |           2.3750            |
+|         0.40         |        256         |         716         |           2.7969            |
+|         0.45         |        256         |         848         |           3.3125            |
+|         0.50         |        256         |        1032         |           4.0312            |
++----------------------+--------------------+---------------------+-----------------------------+
+
+Analysis of Results:
+--------------------
+1. At low drop rates (p = 0.05 to 0.15), the majority of packets and ACKs arrive
+   on the first attempt. Cumulative acknowledgments mitigate dropped ACKs because
+   a subsequent ACK acknowledges prior in-order messages without retransmission.
+2. As p increases beyond 0.30, the probability of both data packets and their
+   corresponding ACKs being dropped rises significantly. When a timeout of T = 5s
+   expires, Thread S retransmits all unacknowledged packets currently in swnd.
+   Hence, the average number of transmissions grows non-linearly, reaching ~4.03
+   at p = 0.50.
+3. In all test cases, 100% data integrity was verified (diff between send_data
+   and recv_data produced zero differences).
+
+================================================================================
+2. THE "PROBLEM HERE" IN THREAD R AND ITS RESOLUTION
+================================================================================
+Problem Statement Note:
+"On a timeout over select() it additionally checks whether the flag nospace was
+set but now there is space available in the receive buffer. In that case, it sends
+a duplicate ACK message with the last acknowledged sequence number but with the
+updated rwnd size, and resets the flag (there might be a problem here - try to
+find it out and resolve!)."
+
+Identified Flaw (Zero-Window Deadlock):
+--------------------------------------
+1. When the receiver buffer becomes completely full (10 messages pending read by
+   the receiver application), the receiver sets rwnd = 0 and sets nospace = 1.
+2. The sender receives rwnd = 0 in an ACK and immediately throttles its
+   transmission window (swnd.window_size = 0). The sender stops sending new
+   packets.
+3. Later, the receiver application calls k_recvfrom() and consumes messages,
+   freeing up buffer space (rwnd becomes > 0).
+4. On the next select() timeout, Thread R notices nospace == 1 and rwnd > 0.
+   If Thread R sends a SINGLE duplicate ACK announcing the open window and
+   immediately clears nospace = 0:
+   - What happens if that duplicate ACK is DROPPED by the unreliable channel
+     (via dropMessage(p))?
+   - The sender NEVER receives the window update and remains stuck with
+     swnd = 0 indefinitely.
+   - The receiver sits idle because nospace was reset to 0, so Thread R will
+     never send another window update!
+   - Result: DEADLOCK. Sender waits for window to open; Receiver waits for data.
+
+Resolution Implemented in KTP:
+------------------------------
+To guarantee 100% deadlock immunity:
+1. Persistent Window Re-announcement:
+   When space opens up in a previously full receive buffer, a persistent flag
+   'nospace_update_pending' is set. Thread R does NOT simply send one duplicate
+   ACK and forget. Instead, Thread R periodically re-announces the updated rwnd
+   on select timeouts until the sender actually resumes data transmission.
+   Once any new data packet is received from the sender, Thread R knows the
+   sender has received the window update and clears the pending flag.
+2. Sender-Side Zero-Window Probing (Persist Timer in Thread S):
+   If the sender's swnd.window_size == 0 and there are pending application
+   messages waiting to be sent in send_buf, Thread S does not block forever.
+   After timeout T elapses, Thread S sends a Zero-Window Probe to prompt the
+   receiver to re-transmit its current cumulative ACK and updated rwnd size.
+
+================================================================================
+3. LIST OF DATA STRUCTURES AND FIELDS
+================================================================================
+
+A. ktp_packet_t (Physical Packet on the Network)
+------------------------------------------------
+Transferred directly over the UDP socket. Packed to prevent alignment padding.
+- uint8_t type:
+    Packet type identifier: KTP_TYPE_DATA (1) or KTP_TYPE_ACK (2).
+- uint8_t seq_num:
+    8-bit sequence number (1 to 255) assigned to the data packet.
+- uint8_t ack_num:
+    Piggybacked sequence number of the highest in-order message acknowledged.
+- uint8_t rwnd:
+    Piggybacked advertised receive window size (number of free buffer slots, 0..10).
+- uint16_t length:
+    Length of actual active payload in bytes (1 to 512).
+- char payload[MSG_SIZE]:
+    512-byte payload buffer holding the application data chunk.
+
+B. send_msg_t (Sender Buffer Entry)
+-----------------------------------
+Represents a queued application message in the sender-side buffer.
+- ktp_packet_t packet:
+    The complete KTP packet formatted and ready for transmission.
+- time_t last_sent_time:
+    Timestamp (in seconds) of the most recent transmission or retransmission.
+- int is_occupied:
+    1 if this buffer slot currently holds a valid message; 0 if free.
+- int is_sent:
+    1 if the message has been transmitted over UDP at least once; 0 if queued.
+- int is_acked:
+    1 if an ACK covering this message has been received.
+
+C. recv_msg_t (Receiver Buffer Entry)
+-------------------------------------
+Represents a received message slot in the receiver-side buffer.
+- char data[MSG_SIZE]:
+    The application payload extracted after stripping the KTP header.
+- uint16_t length:
+    Length of the stored payload in bytes.
+- uint8_t seq_num:
+    8-bit sequence number of the received message.
+- int is_valid:
+    1 if this slot holds received data; 0 if empty.
+- int is_in_order:
+    1 if this message is in-order and ready for consumption via k_recvfrom();
+    0 if the message arrived out-of-order and is awaiting preceding packets.
+
+D. swnd_t (Sender Window Structure)
+-----------------------------------
+Manages flow control and sliding window state at the sender.
+- uint8_t window_size:
+    Current allowed window size (bounded by minimum of SWND_MAX_SIZE and rwnd).
+- uint8_t start_seq:
+    Earliest sequence number sent but not yet acknowledged.
+- uint8_t next_seq:
+    Next sequence number to assign to newly queued application messages.
+- uint8_t unacked_seqs[SWND_MAX_SIZE]:
+    Array storing sequence numbers currently in-flight.
+- int num_unacked:
+    Count of packets currently sent and awaiting acknowledgment.
+
+E. rwnd_t (Receiver Window Structure)
+-------------------------------------
+Manages receiver flow control, sequencing, and out-of-order tracking.
+- uint8_t window_size:
+    Current available free space in receive buffer (0 to 10).
+- uint8_t expected_seq:
+    Next in-order sequence number expected by the receiver.
+- uint8_t last_in_order_seq:
+    Highest in-order sequence number acknowledged so far.
+- uint8_t out_of_order_seqs[RECV_BUFFER_SIZE]:
+    Array storing sequence numbers received out of order.
+- int num_out_of_order:
+    Count of out-of-order packets currently buffered.
+
+F. ktp_socket_t (KTP Socket Descriptor in Shared Memory)
+--------------------------------------------------------
+Represents an individual KTP socket (SM[i]).
+- int is_allocated:
+    1 if the socket is actively assigned to an application process; 0 if free.
+- pid_t pid:
+    Process ID of the application that invoked k_socket().
+- int udp_sock:
+    File descriptor of the underlying POSIX UDP socket.
+- int is_bound:
+    1 if k_bind() has been completed; 0 otherwise.
+- struct sockaddr_in src_addr:
+    Local IP and port to which the UDP socket is bound.
+- struct sockaddr_in dest_addr:
+    Remote destination IP and port with which this socket communicates.
+- send_msg_t send_buf[SEND_BUFFER_SIZE]:
+    Array of sender buffer entries.
+- recv_msg_t recv_buf[RECV_BUFFER_SIZE]:
+    Array of 10 receiver buffer entries.
+- swnd_t swnd:
+    Sender sliding window state.
+- rwnd_t rwnd:
+    Receiver sliding window state.
+- int nospace:
+    Flag set to 1 when receiver buffer is full (rwnd == 0).
+- int nospace_update_pending:
+    Flag indicating space reopened, requiring duplicate ACK window update.
+- time_t last_ack_sent_time:
+    Timestamp of the most recent ACK sent.
+- time_t last_probe_time:
+    Timestamp of the most recent zero-window probe sent.
+- unsigned long total_transmissions:
+    Total number of UDP transmissions made (initial + retransmissions).
+- unsigned long total_data_msgs:
+    Count of unique application messages generated.
+
+G. ktp_sm_t (Global Shared Memory Segment)
+------------------------------------------
+The master shared memory segment accessed by all processes and threads.
+- pthread_mutex_t lock:
+    Process-shared robust POSIX mutex protecting concurrent access to SM.
+- ktp_socket_t sockets[MAX_SOCKETS]:
+    Table of N KTP sockets (MAX_SOCKETS = 20).
+- int init_done:
+    1 if initksocket daemon has initialized the segment; 0 otherwise.
+- float drop_prob:
+    Configured channel packet drop probability p.
+
+================================================================================
+4. LIST OF FUNCTIONS AND OPERATIONAL DETAILS
+================================================================================
+
+Functions in ksocket.c:
+-----------------------
+1. int k_socket(int domain, int type, int protocol)
+   - Verifies that domain is AF_INET and type is SOCK_KTP.
+   - Attaches to shared memory segment (SM).
+   - Acquires the process-shared mutex.
+   - Searches SM for an unallocated entry (is_allocated == 0). If no entry is
+     free, releases mutex, sets k_error = ENOSPACE, and returns -1.
+   - Creates the underlying UDP socket via standard socket(AF_INET, SOCK_DGRAM, 0).
+   - Initializes socket buffers, sets swnd = 10, sets rwnd = 10, records PID.
+   - Releases mutex and returns the KTP socket descriptor index.
+
+2. int k_bind(int sockfd, const struct sockaddr *src_addr, socklen_t src_len,
+              const struct sockaddr *dest_addr, socklen_t dest_len)
+   - Validates socket descriptor and address parameters.
+   - Acquires SM mutex and verifies socket ownership.
+   - Binds the underlying UDP socket to local src_addr using POSIX bind().
+   - Stores src_addr and remote dest_addr in the SM socket entry.
+   - Sets is_bound = 1, releases mutex, and returns 0 on success.
+
+3. int k_sendto(int sockfd, const void *buf, size_t len, int flags,
+                const struct sockaddr *dest_addr, socklen_t addrlen)
+   - Validates socket descriptor, buffer pointer, and binding status.
+   - Verifies that dest_addr matches the bound destination IP and port. If
+     there is a mismatch, sets k_error = ENOTBOUND and returns -1.
+   - Acquires SM mutex and checks for free slot in send_buf. If full, sets
+     k_error = ENOSPACE and returns -1.
+   - Encapsulates payload (up to 512 bytes) into a KTP_TYPE_DATA packet.
+   - Assigns sequence number swnd.next_seq and advances next_seq modulo 255.
+   - Marks slot as occupied and unsent. Thread S will handle physical transmission.
+   - Releases mutex and returns number of bytes written.
+
+4. int k_recvfrom(int sockfd, void *buf, size_t len, int flags,
+                  struct sockaddr *src_addr, socklen_t *addrlen)
+   - Validates socket descriptor and buffer pointer.
+   - Acquires SM mutex and scans recv_buf for the earliest in-order message
+     (is_valid == 1 && is_in_order == 1).
+   - If no in-order message is ready, releases mutex, sets k_error = ENOMESSAGE,
+     and returns -1.
+   - Copies message payload atomically into application buffer buf.
+   - Optionally fills src_addr with sender address.
+   - Clears the buffer slot, updates rwnd.window_size (free slots count).
+   - If buffer was previously full (nospace == 1), sets nospace_update_pending = 1.
+   - Releases mutex and returns number of bytes read.
+
+5. int k_close(int sockfd)
+   - Validates socket descriptor.
+   - Acquires SM mutex, closes underlying UDP socket file descriptor.
+   - Clears socket entry in SM and marks is_allocated = 0.
+   - Releases mutex and returns 0.
+
+6. int dropMessage(float p)
+   - Generates a pseudo-random floating point number in [0.0, 1.0].
+   - If random number < p, returns 1 (packet dropped).
+   - Otherwise returns 0 (packet kept).
+
+7. Helper Functions:
+   - int k_send(int sockfd, const void *buf, size_t len, int flags)
+     Convenience wrapper calling k_sendto with the socket's bound dest_addr.
+   - int k_recv(int sockfd, void *buf, size_t len, int flags)
+     Convenience wrapper calling k_recvfrom without src_addr.
+   - int k_bind_ip(int sockfd, const char *src_ip, int src_port,
+                   const char *dest_ip, int dest_port)
+     Convenience helper converting IP strings and integers into sockaddr_in.
+
+Functions in initksocket.c:
+---------------------------
+1. int main(int argc, char *argv[])
+   - Parses drop probability argument (defaulting to P_DROP from ksocket.h).
+   - Creates and attaches System V Shared Memory segment (SM).
+   - Initializes SM table entries and process-shared robust mutex.
+   - Forks the Garbage Collector background process.
+   - Spawns Thread R (receiver) and Thread S (sender/timer) via pthread_create.
+   - Enters wait loop; catches SIGINT/SIGTERM to gracefully terminate threads,
+     terminate the garbage collector, and detach/destroy shared memory.
+
+2. void *thread_r_func(void *arg)
+   - Builds fd_set containing UDP socket descriptors for all active, bound sockets.
+   - Invokes select() with a 200 ms timeout.
+   - On timeout / periodic tick:
+     Checks for zero-window deadlock recovery. If nospace_update_pending is set
+     and rwnd > 0, retransmits duplicate ACK announcing updated rwnd.
+   - On readable UDP socket:
+     Reads incoming datagram via recvfrom().
+     Calls dropMessage(p). If dropMessage returns 1, discards packet immediately.
+     If packet is DATA:
+       - If in-order: places in recv_buf, advances expected_seq, delivers any
+         consecutive buffered out-of-order packets, updates rwnd, and transmits ACK.
+       - If out-of-order within rwnd: buffers packet in recv_buf without ACK.
+       - If duplicate (seq < expected_seq): drops payload, transmits duplicate ACK.
+     If packet is ACK:
+       - Updates sender swnd.window_size from packet.rwnd.
+       - Slides swnd: marks acknowledged packets in send_buf as free.
+
+3. void *thread_s_func(void *arg)
+   - Sleeps for T/2 seconds (2.5 seconds when T = 5).
+   - Acquires SM mutex and inspects each active, bound socket.
+   - Timeout Check:
+     Calculates (current_time - last_sent_time) for all unacknowledged packets
+     in swnd. If >= T, triggers retransmission of all in-flight messages in swnd.
+   - Zero-Window Probe Check:
+     If swnd.window_size == 0 and messages are pending in send_buf, transmits
+     a probe packet if timeout T has elapsed since last probe.
+   - Transmission of Pending Messages:
+     Checks how many packets are currently in flight versus effective window size.
+     Pulls unsent messages from send_buf in sequential order, transmits them
+     over UDP sendto(), marks is_sent = 1, and records transmission timestamp.
+
+4. void run_garbage_collector(void)
+   - Background daemon executed by the child process of fork().
+   - Loops indefinitely with sleep(2).
+   - Iterates through all allocated KTP sockets in SM.
+   - Tests owner process vitality using kill(owner_pid, 0).
+   - If kill() returns -1 with errno == ESRCH, the owner process terminated
+     abruptly without calling k_close(). The garbage collector automatically
+     closes the UDP socket and resets the SM entry to prevent resource leaks.
+
